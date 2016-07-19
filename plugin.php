@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Facebook Scraper
-Plugin URI: http://your-own-domain-here.com/articles/hey-test-my-sample-plugin/
-Description: This plugin does something and something else
+Plugin Name: Facebook Rescraper
+Plugin URI: https://github.com/reeno/facebook-rescraper
+Description: Tells Facebook to rescrape a posted long link to fetch the current preview image, description etc.
 Version: 0.1
 Author: Reeno
-Author URI: http://...
+Author URI: https://github.com/reeno
 */
 
 
